@@ -1,0 +1,35 @@
+.box{
+
+    height:250px;
+    width:250px;
+    border:solid 1px black;
+    margin:auto;
+    margin-top:30px;
+}
+.color_button{
+    border:solid 1px black;
+    height:30px;
+    width:50px;
+    margin:auto;
+    margin-top:20px;
+    
+
+}
+.yellow{
+    margin:auto;
+  
+}
+.red{
+    margin:auto;
+}
+.blue{
+    margin:auto;
+}
+.green{
+    margin:auto;
+    
+}
+
+.button_box{
+    margin:10px 20px 0px 820px;
+    }
